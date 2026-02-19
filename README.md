@@ -25,10 +25,6 @@ Local-first. BYO keys and subscriptions.
 3. Launch Viberia from Applications
 4. On first launch, right-click → Open (macOS Gatekeeper prompt)
 
-## Links
-
-- [Website](https://getviberia.com)
-
 ## License
 
 Proprietary. All rights reserved.
