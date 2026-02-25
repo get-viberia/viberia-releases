@@ -23,7 +23,6 @@ Local-first. BYO keys and subscriptions.
 1. Download the `.dmg` file from the [latest release](../../releases/latest)
 2. Open the `.dmg` and drag Viberia to your Applications folder
 3. Launch Viberia from Applications
-4. On first launch, right-click → Open (macOS Gatekeeper prompt)
 
 ## License
 
