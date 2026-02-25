@@ -9,7 +9,7 @@ Local-first. BYO keys and subscriptions.
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | [Latest Release](../../releases/latest) |
+| macOS (Apple Silicon) | [Download (.dmg)](https://github.com/skulk-and-quarrel/viberia-releases/releases/download/v0.1.0/Viberia_0.1.0_aarch64.dmg) |
 
 > Windows and Linux coming soon.
 
@@ -20,7 +20,7 @@ Local-first. BYO keys and subscriptions.
 
 ## Installation
 
-1. Download the `.dmg` file from the [latest release](../../releases/latest)
+1. Download the `.dmg` file from the link above
 2. Open the `.dmg` and drag Viberia to your Applications folder
 3. Launch Viberia from Applications
 
