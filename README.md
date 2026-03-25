@@ -9,7 +9,7 @@ Local-first. BYO keys and subscriptions.
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | [Download (.dmg)](https://github.com/skulk-and-quarrel/viberia-releases/releases/download/v0.1.0/Viberia_0.1.0_aarch64.dmg) |
+| macOS (Apple Silicon) | [Download (.dmg)](https://github.com/skulk-and-quarrel/viberia-releases/releases/download/v0.1.0/Viberia-pitauri_0.1.0_aarch64.dmg) |
 
 > Windows and Linux coming soon.
 
