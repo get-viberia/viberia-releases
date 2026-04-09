@@ -40,6 +40,16 @@ Everything runs on your machine. Code and conversations never leave your compute
 
 ---
 
+## Requirements
+
+- macOS 13.0+ (Ventura or later)
+- At least one of the following coding agents installed:
+  - [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
+  - [Codex CLI](https://github.com/openai/codex)
+  - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+
+---
+
 ## Install
 
 **macOS (Apple Silicon / Intel)**
