@@ -6,7 +6,7 @@ Your mission control for managing AI agent teams — fully local, provider agnos
 
 [![Download](https://img.shields.io/badge/Download-v0.1.0-blue?style=for-the-badge&logo=apple)](https://github.com/get-viberia/viberia-releases/releases/download/v0.1.0/Viberia-pitauri_0.1.0_aarch64.dmg)
 [![Website](https://img.shields.io/badge/Website-getviberia.com-green?style=for-the-badge)](https://getviberia.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DayXcnUK)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sDxtXn4zq7)
 
 ---
 
@@ -57,7 +57,7 @@ Everything runs on your machine. Code and conversations never leave your compute
 ## Links
 
 - [Website](https://getviberia.com)
-- [Discord](https://discord.gg/DayXcnUK)
+- [Discord](https://discord.gg/sDxtXn4zq7)
 - [Release Notes](https://github.com/get-viberia/viberia-releases/releases/tag/v0.1.0)
 
 ---
