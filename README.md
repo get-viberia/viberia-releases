@@ -2,7 +2,7 @@
 
 > Think SimCity, but for AI coding teams.
 
-Your mission control for managing AI agent teams — fully local, provider agnostic, with your own keys or existing subscriptions.
+Your mission control for managing AI agent teams - fully local, provider agnostic, with your own keys or existing subscriptions.
 
 [![Download](https://img.shields.io/badge/Download-v0.1.1-blue?style=for-the-badge&logo=apple)](https://github.com/get-viberia/viberia-releases/releases/download/v0.1.1/Viberia-pitauri_0.1.1_aarch64.dmg)
 [![Website](https://img.shields.io/badge/Website-getviberia.com-green?style=for-the-badge)](https://getviberia.com)
@@ -21,13 +21,13 @@ Viberia is a macOS desktop app that lets you orchestrate multiple AI coding agen
 ## Key Features
 
 ### Visual Agent Orchestration
-See all your AI agents at a glance on an interactive map. Click any agent to dive into their conversation, provide input, then zoom back out — without losing context.
+See all your AI agents at a glance on an interactive map. Click any agent to dive into their conversation, provide input, then zoom back out - without losing context.
 
 ### Chief of Staff HUD
 A built-in AI assistant that helps you manage your workspace. Get suggested actions, route messages between agents, and monitor progress through an interactive overlay.
 
 ### Agent Teams & Buildings
-Organize agents into collaborative teams. A PRD writer drafts the spec, a coder implements it, a reviewer checks the work — agents hand off to each other automatically.
+Organize agents into collaborative teams. A PRD writer drafts the spec, a coder implements it, a reviewer checks the work - agents hand off to each other automatically.
 
 ### Agent Loop Scheduling
 Set up recurring agent tasks on a schedule. Configure model, thinking budget, and project scope per loop.
