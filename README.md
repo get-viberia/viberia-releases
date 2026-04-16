@@ -4,7 +4,7 @@
 
 Your mission control for managing AI agent teams - fully local, provider agnostic, with your own keys or existing subscriptions.
 
-[![Download](https://img.shields.io/badge/Download-v0.1.2-blue?style=for-the-badge&logo=apple)](https://github.com/get-viberia/viberia-releases/releases/download/v0.1.2/Viberia-pitauri_0.1.2_aarch64.dmg)
+[![Download](https://img.shields.io/badge/Download-v0.1.3-blue?style=for-the-badge&logo=apple)](https://github.com/get-viberia/viberia-releases/releases/download/v0.1.3/Viberia-pitauri_0.1.3_aarch64.dmg)
 [![Website](https://img.shields.io/badge/Website-getviberia.com-green?style=for-the-badge)](https://getviberia.com)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sDxtXn4zq7)
 
@@ -54,7 +54,7 @@ Everything runs on your machine. Code and conversations never leave your compute
 
 **macOS (Apple Silicon / Intel)**
 
-1. **[Download Viberia (.dmg)](https://github.com/get-viberia/viberia-releases/releases/download/v0.1.2/Viberia-pitauri_0.1.2_aarch64.dmg)**
+1. **[Download Viberia (.dmg)](https://github.com/get-viberia/viberia-releases/releases/download/v0.1.3/Viberia-pitauri_0.1.3_aarch64.dmg)**
 2. Open the `.dmg` and drag Viberia to Applications
 3. Right-click → Open on first launch (macOS Gatekeeper prompt)
 
@@ -68,7 +68,7 @@ Everything runs on your machine. Code and conversations never leave your compute
 
 - [Website](https://getviberia.com)
 - [Discord](https://discord.gg/sDxtXn4zq7)
-- [Release Notes](https://github.com/get-viberia/viberia-releases/releases/tag/v0.1.2)
+- [Release Notes](https://github.com/get-viberia/viberia-releases/releases/tag/v0.1.3)
 
 ---
 
