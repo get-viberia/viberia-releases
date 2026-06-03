@@ -5,9 +5,9 @@
 Your mission control for managing AI agent teams - fully local, provider agnostic, with your own keys or existing subscriptions.
 
 [![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.0/Viberia_0.6.0_aarch64.dmg)
-[![Intel](https://img.shields.io/badge/Intel-gray?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases)
+[![Intel](https://img.shields.io/badge/Intel-gray?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases)
 [![Windows x64](https://img.shields.io/badge/Windows_x64-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.0/Viberia_0.6.0_x64-setup.exe)
-[![ARM64](https://img.shields.io/badge/ARM64-gray?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.0/Viberia_0.6.0_arm64-setup.exe)
+[![ARM64](https://img.shields.io/badge/ARM64-gray?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.0/Viberia_0.6.0_arm64-setup.exe)
 
 [![Download v0.6.0](https://img.shields.io/badge/Download-v0.6.0-blue?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.6.0)
 [![Website](https://img.shields.io/badge/Website-getviberia.com-green?style=for-the-badge)](https://getviberia.com)
