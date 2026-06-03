@@ -1,6 +1,6 @@
 # Viberia
 
-> Think SimCity, but for AI coding teams.
+> Command AI agents like you're playing Civilization
 
 Your mission control for managing AI agent teams - fully local, provider agnostic, with your own keys or existing subscriptions.
 
