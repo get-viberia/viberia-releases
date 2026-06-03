@@ -4,8 +4,10 @@
 
 Your mission control for managing AI agent teams - fully local, provider agnostic, with your own keys or existing subscriptions.
 
-[![Download for macOS](https://img.shields.io/badge/Download-v0.6.0-blue?style=for-the-badge&logo=apple)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.0/Viberia_0.6.0_aarch64.dmg)
-[![Download for Windows](https://img.shields.io/badge/Download-v0.6.0-blue?style=for-the-badge&logo=windows)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.6.0)
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.0/Viberia_0.6.0_aarch64.dmg)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.6.0)
+
+[![Download v0.6.0](https://img.shields.io/badge/Download-v0.6.0-blue?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.6.0)
 [![Website](https://img.shields.io/badge/Website-getviberia.com-green?style=for-the-badge)](https://getviberia.com)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sDxtXn4zq7)
 
