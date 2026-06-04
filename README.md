@@ -49,10 +49,12 @@ Everything runs on your machine. Code and conversations never leave your compute
 
 - macOS 13.0+ (Ventura or later), Apple Silicon or Intel
 - Windows 10 or 11 (x64 or ARM64)
-- At least one of the following coding agents installed:
-  - [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
-  - [Codex CLI](https://github.com/openai/codex)
-  - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+- At least one of the following coding agents installed (use the minimum version shown or newer):
+  - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 2.1.119 or newer
+  - [Codex CLI](https://github.com/openai/codex) 0.47.0 or newer
+  - [Gemini CLI](https://github.com/google-gemini/gemini-cli) 0.43.0 or newer
+
+> Note: Claude Code versions 2.1.74 through 2.1.117 have a known HTTP MCP bug that breaks Viberia's tool connections. Update Claude Code to 2.1.119 or newer.
 
 ---
 
