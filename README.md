@@ -4,12 +4,12 @@
 
 Your mission control for managing AI agent teams - fully local, provider agnostic, with your own keys or existing subscriptions.
 
-[![Apple Silicon](https://img.shields.io/badge/Download-Apple_Silicon-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.2/Viberia_0.6.2_aarch64.dmg)
-[![Windows x64](https://img.shields.io/badge/Download-Windows_x64-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.2/Viberia_0.6.2_x64-setup.exe)
-[![Intel](https://img.shields.io/badge/Intel-gray?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.2/Viberia_0.6.2_x64.dmg)
-[![ARM64](https://img.shields.io/badge/ARM64-gray?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.2/Viberia_0.6.2_arm64-setup.exe)
+[![Apple Silicon](https://img.shields.io/badge/Download-Apple_Silicon-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.3/Viberia_0.6.3_aarch64.dmg)
+[![Windows x64](https://img.shields.io/badge/Download-Windows_x64-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.3/Viberia_0.6.3_x64-setup.exe)
+[![Intel](https://img.shields.io/badge/Intel-gray?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.3/Viberia_0.6.3_x64.dmg)
+[![ARM64](https://img.shields.io/badge/ARM64-gray?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.3/Viberia_0.6.3_arm64-setup.exe)
 
-[![Download v0.6.2](https://img.shields.io/badge/Download-v0.6.2-blue?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.6.2)
+[![Download v0.6.3](https://img.shields.io/badge/Download-v0.6.3-blue?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.6.3)
 [![Website](https://img.shields.io/badge/Website-getviberia.com-green?style=for-the-badge)](https://getviberia.com)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sDxtXn4zq7)
 
@@ -63,8 +63,8 @@ Everything runs on your machine. Code and conversations never leave your compute
 **macOS (Apple Silicon / Intel)**
 
 1. Download the build for your Mac:
-   - **Apple Silicon (M1 or later):** [Viberia_0.6.2_aarch64.dmg](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.2/Viberia_0.6.2_aarch64.dmg)
-   - **Intel:** [Viberia_0.6.2_x64.dmg](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.2/Viberia_0.6.2_x64.dmg)
+   - **Apple Silicon (M1 or later):** [Viberia_0.6.3_aarch64.dmg](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.3/Viberia_0.6.3_aarch64.dmg)
+   - **Intel:** [Viberia_0.6.3_x64.dmg](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.3/Viberia_0.6.3_x64.dmg)
 2. Open the `.dmg` and drag Viberia to Applications
 3. Right-click then Open on first launch (macOS Gatekeeper prompt)
 
@@ -73,8 +73,8 @@ Everything runs on your machine. Code and conversations never leave your compute
 **Windows 10/11 (x64 or ARM64)**
 
 1. Download the installer for your architecture:
-   - **x64 (most PCs):** [Viberia_0.6.2_x64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.2/Viberia_0.6.2_x64-setup.exe)
-   - **ARM64 (e.g. Snapdragon X / Surface Pro 11):** [Viberia_0.6.2_arm64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.2/Viberia_0.6.2_arm64-setup.exe)
+   - **x64 (most PCs):** [Viberia_0.6.3_x64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.3/Viberia_0.6.3_x64-setup.exe)
+   - **ARM64 (e.g. Snapdragon X / Surface Pro 11):** [Viberia_0.6.3_arm64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.6.3/Viberia_0.6.3_arm64-setup.exe)
 2. Run the downloaded `.exe`. Viberia is not yet code-signed, so Windows will show a SmartScreen warning. See [Windows SmartScreen / Defender](#windows-smartscreen--defender) below for how to proceed.
 3. Follow the installer prompts. Viberia launches automatically when setup completes.
 
@@ -115,7 +115,7 @@ We are working on code signing to remove these prompts in a future release.
 
 - [Website](https://getviberia.com)
 - [Discord](https://discord.gg/sDxtXn4zq7)
-- [Release Notes](https://github.com/get-viberia/viberia-releases/releases/tag/v0.6.2)
+- [Release Notes](https://github.com/get-viberia/viberia-releases/releases/tag/v0.6.3)
 
 ---
 
