@@ -4,12 +4,12 @@
 
 Your mission control for managing AI agent teams - fully local, provider agnostic, with your own keys or existing subscriptions.
 
-[![Apple Silicon](https://img.shields.io/badge/Download-Apple_Silicon-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_aarch64.dmg)
+[![Apple Silicon](https://img.shields.io/badge/Download-Apple_Silicon-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_aarch64.dmg)
 [![Windows x64](https://img.shields.io/badge/Download-Windows_x64-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_x64-setup.exe)
-[![Intel](https://img.shields.io/badge/Intel-gray?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_x64.dmg)
+[![Intel](https://img.shields.io/badge/Intel-gray?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_x64.dmg)
 [![ARM64](https://img.shields.io/badge/ARM64-gray?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_arm64-setup.exe)
 
-[![Download v0.7.0](https://img.shields.io/badge/Download-v0.7.0-blue?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.7.0)
+[![Download v0.8.0](https://img.shields.io/badge/Download-v0.8.0-blue?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.8.0)
 [![Website](https://img.shields.io/badge/Website-getviberia.com-green?style=for-the-badge)](https://getviberia.com)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sDxtXn4zq7)
 
@@ -63,14 +63,18 @@ Everything runs on your machine. Code and conversations never leave your compute
 **macOS (Apple Silicon / Intel)**
 
 1. Download the build for your Mac:
-   - **Apple Silicon (M1 or later):** [Viberia_0.7.0_aarch64.dmg](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_aarch64.dmg)
-   - **Intel:** [Viberia_0.7.0_x64.dmg](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_x64.dmg)
+   - **Apple Silicon (M1 or later):** [Viberia_0.8.0_aarch64.dmg](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_aarch64.dmg)
+   - **Intel:** [Viberia_0.8.0_x64.dmg](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_x64.dmg)
 2. Open the `.dmg` and drag Viberia to Applications
 3. Right-click then Open on first launch (macOS Gatekeeper prompt)
 
 > Not sure which Mac you have? Click the Apple menu then About This Mac. "Apple M1/M2/M3/M4" means Apple Silicon; "Intel" means the Intel build.
 
 **Windows 10/11 (x64 or ARM64)**
+
+> **Note:** Viberia 0.8.0 is a macOS-only release. The Windows links below remain on
+> v0.7.0, which is the latest Windows build and stays fully supported. Windows builds
+> return in a future release.
 
 1. Download the installer for your architecture:
    - **x64 (most PCs):** [Viberia_0.7.0_x64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_x64-setup.exe)
@@ -115,7 +119,7 @@ We are working on code signing to remove these prompts in a future release.
 
 - [Website](https://getviberia.com)
 - [Discord](https://discord.gg/sDxtXn4zq7)
-- [Release Notes](https://github.com/get-viberia/viberia-releases/releases/tag/v0.7.0)
+- [Release Notes](https://github.com/get-viberia/viberia-releases/releases/tag/v0.8.0)
 
 ---
 
