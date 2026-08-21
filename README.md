@@ -5,9 +5,9 @@
 Your mission control for managing AI agent teams - fully local, provider agnostic, with your own keys or existing subscriptions.
 
 [![Apple Silicon](https://img.shields.io/badge/Download-Apple_Silicon-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_aarch64.dmg)
-[![Windows x64](https://img.shields.io/badge/Download-Windows_x64-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_x64-setup.exe)
+[![Windows x64](https://img.shields.io/badge/Download-Windows_x64-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_x64-setup.exe)
 [![Intel](https://img.shields.io/badge/Intel-gray?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_x64.dmg)
-[![ARM64](https://img.shields.io/badge/ARM64-gray?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_arm64-setup.exe)
+[![ARM64](https://img.shields.io/badge/ARM64-gray?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxMS4ydjExLjJIMHpNMTIuOCAwSDI0djExLjJIMTIuOHpNMCAxMi44aDExLjJWMjRIMHpNMTIuOCAxMi44SDI0VjI0SDEyLjh6Ii8%2BPC9zdmc%2B)](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_arm64-setup.exe)
 
 [![Download v0.8.0](https://img.shields.io/badge/Download-v0.8.0-blue?style=for-the-badge)](https://github.com/get-viberia/viberia-releases/releases/tag/v0.8.0)
 [![Website](https://img.shields.io/badge/Website-getviberia.com-green?style=for-the-badge)](https://getviberia.com)
@@ -72,13 +72,9 @@ Everything runs on your machine. Code and conversations never leave your compute
 
 **Windows 10/11 (x64 or ARM64)**
 
-> **Note:** Viberia 0.8.0 is a macOS-only release. The Windows links below remain on
-> v0.7.0, which is the latest Windows build and stays fully supported. Windows builds
-> return in a future release.
-
 1. Download the installer for your architecture:
-   - **x64 (most PCs):** [Viberia_0.7.0_x64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_x64-setup.exe)
-   - **ARM64 (e.g. Snapdragon X / Surface Pro 11):** [Viberia_0.7.0_arm64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.7.0/Viberia_0.7.0_arm64-setup.exe)
+   - **x64 (most PCs):** [Viberia_0.8.0_x64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_x64-setup.exe)
+   - **ARM64 (e.g. Snapdragon X / Surface Pro 11):** [Viberia_0.8.0_arm64-setup.exe](https://github.com/get-viberia/viberia-releases/releases/download/v0.8.0/Viberia_0.8.0_arm64-setup.exe)
 2. Run the downloaded `.exe`. Viberia is not yet code-signed, so Windows will show a SmartScreen warning. See [Windows SmartScreen / Defender](#windows-smartscreen--defender) below for how to proceed.
 3. Follow the installer prompts. Viberia launches automatically when setup completes.
 
